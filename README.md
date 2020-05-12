@@ -13,9 +13,14 @@ Setup is very simple. FORK this repository and download programs as they become 
 ## Usage
 Scripts are written in a modular fashion with relative paths. Most scripts require parameters passed into them. Read the script files for more information.
 
-Some information is needed to be gathered by you, such as:
+### Calling PowerShell Scripts
+The only way to call a `.ps1` script silently without popups is through another layer of scripts. Every `.ps1` file has a companion `.bat` file that is custom created to call that PowerShell Script with the neccesary paramters. Set your Stream Deck to open that `.bat` file to run the corresponding PowerShell Script.
+
+### Some information is needed to be gathered by you, such as:
 * Zoom Meeting IDs
 * Harmony Hub IP Address
 * Process names
+
+This information must either be stored in a file, or passed into the script at runtime.
 
 Store your personal information and API Keys in the `Keys` folder for safe keeping
