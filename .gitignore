@@ -1,3 +1,15 @@
-# Ignore API Keys
+# Ignore Keys Folder
 Keys/*
-!Keys/.gitkeep
+!Keys/README.md
+
+#Ignore Nircmd
+Monitor-Scripts/Nircmd/*
+!Monitor-Scripts/Nircmd/README.md
+
+#Ignore Multi-Monitor-Tool
+Monitor-Scripts/Multi-Monitor-Tool/*
+!Monitor-Scripts/Multi-Monitor-Tool/README.md
+
+#Ignore Harmony Node.js
+Smart-Home-Commands/HarmonyHubCli/*
+!Smart-Home-Commands/HarmonyHubCli/README.md
