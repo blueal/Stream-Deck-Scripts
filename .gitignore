@@ -13,3 +13,6 @@ Monitor-Scripts/Multi-Monitor-Tool/*
 #Ignore Harmony Node.js
 Smart-Home-Commands/HarmonyHubCli/*
 !Smart-Home-Commands/HarmonyHubCli/README.md
+
+#VSCode
+.vscode
