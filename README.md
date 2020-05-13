@@ -31,6 +31,9 @@ Scripts are written in a modular fashion with relative paths. Most scripts requi
 ### Calling PowerShell Scripts
 The only way to call a `.ps1` script silently without popups is through another layer of scripts. Every `.ps1` file has a companion `.bat` file that is custom created to call that PowerShell Script with the neccesary paramters. Set your Stream Deck to open that `.bat` file to run the corresponding PowerShell Script.
 
+![Flow Chart describing calling Powershell scripts](/CallingPowerShell.drawio.svg "Call the Batch File to call the Powershell")
+
+
 ### Some information is needed to be gathered by you as neccesary, such as:
 * Zoom Meeting IDs
     * Passed as a parameter when running
