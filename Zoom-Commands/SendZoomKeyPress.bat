@@ -1,2 +1,2 @@
 cd "%~dp0"
-powershell -File .\SendZoomKeyPress.ps1 %1
+powershell -windowstyle hidden -File .\SendZoomKeyPress.ps1 %1
