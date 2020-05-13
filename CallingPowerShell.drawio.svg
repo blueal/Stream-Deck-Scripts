@@ -1,30 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="372px" height="82px" viewBox="-0.5 -0.5 372 82" content="&lt;mxfile host=&quot;localhost&quot; modified=&quot;2020-05-13T06:01:59.993Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.0 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36&quot; version=&quot;13.0.9&quot; etag=&quot;ZGSR6GWlsmEnFmbhqaa1&quot;&gt;&lt;diagram id=&quot;Cu5ZmypqGwngGfGrcB9m&quot;&gt;xVZNb9swDP01vgb+iJvk2DTttsOAAD6sOw2axVpCbctQ5NrZrx9dSf6SAwRtgF4C8YmUycdHIl70ULTfJKnYT0Eh90Kftl508MIwCgL87YCzBnaxr4FMcqqhYAAS/g8MaN1qTuE0cVRC5IpXUzAVZQmpmmBEStFM3V5EPv1qRTJwgCQluYv+4lQxjW5tFR3+HXjG7JcD39wUxDob4MQIFc0Iih696EEKofSpaB8g77izvOi4pwu3fWISSnVNQKgD3khem9oSJYEUiB0gfTVJqrOtnKkix1PgRfuTkuK1rz/sEEaqzq8gZU3yH2VVYw77hnEFSUXS7qpBPSAmRV1SoPYl3eDwDs9EpqbfQXdl0gOpoL1YYtATh4IDUYCSZ3QxAWFkuDZiiy33zdC6vkFs1LY7gxGjlqx/eiAUD4bTZX5jh1+HUijpfadJtEpRIrgfkQwtV8+j8288+6vYWIeuRN8aZ2uUmOTz2BhFdeYQ9m5N4o4gOVYJ0oA6XaDOQMzox5JELVOYyEoRmYHx2iw3adSEeKEHFpOQE8XfpkksNcZ84Sg4pjdowJ9qYB3MequTN1HjeZk9FK1nYlrPHtIlOw+966Qv+yrpbBzp7IlKGUJPHLUzl5E7juNZtZPZZt1CXr3kokkZkWpFucQN+YcSRS7M6g1GMNrEXzeCO4fHo2hQ36GfMO2ZpJJXymF0uqSWqBkxTP6eRF4ruB/213SbrRdX5g3I7cm05AYuudsFbrc34DaIPrvfPrqrPrIX0bjNetu46233lestnq23eN7ba9ebo6X17kbrDc3hX412H/4aRo//AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="372px" height="82px" viewBox="-0.5 -0.5 372 82" content="&lt;mxfile host=&quot;localhost&quot; modified=&quot;2020-05-13T06:06:15.609Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.0 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36&quot; version=&quot;13.0.9&quot; etag=&quot;Dv4L07b5fkuAGfe2WB1p&quot;&gt;&lt;diagram id=&quot;kFjIPm8FNlOhcDlEjrSY&quot;&gt;1VbbjtMwEP2aPrJqku3tcdvtAhJIiCDxiIbEjc06meBMmpSvZ1I7N9Ii0K4W8dLaZ47t8Zk5SWbBLq1fG8jle4yFnvnzuJ4F9zPfDzyPfxvgZIHNYm6BxKjYQl4PhOqHcGBLK1UsihGREDWpfAxGmGUiohEGxmA1ph1Qj0/NIRETIIxAT9HPKiZp0XV7iwZ/I1Qi25O9uYuk0JIdUEiIsRpAwX4W7Awi2VFa74RutGt1seserkS7xIzI6I8WLO2KI+jSXc4lRqf2tiLmy7spGpKYYAZ636Nbg2UWi2bLOc96zjvEnEGPwW+C6OQqCSUhQ5JS7aL2zOagq/dwUIGliRzLpUpgEuFYq05D7j2BqSBzYooRGkgdx7uD64Kk4/VC8cBpdVk3/4JsS81JbA/IGQ/1W34vsQ28Ks4K3DHB8/O6D/Ioaf5DMgJSDt+L6LHdkpOxu1rOpEADIQsy+Ng1pd8gEvKGl0JWgn6b5WWzRyUViTCHs5QVm3RUxfNOtlb+ksdgIlc67xzidSpLPtnirruUjsKQqH9fwWlt3AI/cJZwz4RFa5Gqd1jnIzlw13L+9HJ6t/+xDVZTG2xeyAariWxboEgy9KBYkl8lnHbnsHXbRq2T5qVxc9BYRRIM3cTK8FP8SwwEV1oXtEoynkaskzB9i350beIFz9OkwWrx75p0MxH7A1bChNLSwsionCaaj119SbxBDeBrgbokcdcbfmz/24vPmGdQtlOyVdabKru+IOz674Xlaf+CPccGXynB/ic=&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
+        <path d="M 101 41 L 139.63 41" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 144.88 41 L 137.88 44.5 L 139.63 41 L 137.88 37.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
         <path d="M 51 71 L 6.5 71 Q 1 71 1 65.5 L 1 42.5 Q 1 37 6.32 35.62 L 95.68 12.38 Q 101 11 101 16.5 L 101 65.5 Q 101 71 95.5 71 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 41px; margin-left: 2px;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 50px; margin-left: 2px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                Stream Deck
+                                <font style="font-size: 12px">
+                                    Stream Deck
+                                </font>
                             </div>
                         </div>
                     </div>
                 </foreignObject>
-                <text x="51" y="45" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                <text x="51" y="54" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     Stream Deck
                 </text>
             </switch>
         </g>
-        <path d="M 101 41 L 146 41" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 246 41 L 284.63 41" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 289.88 41 L 282.88 44.5 L 284.63 41 L 282.88 37.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
         <path d="M 155.18 11 L 236.82 11 C 241.89 11 246 24.43 246 41 C 246 57.57 241.89 71 236.82 71 L 155.18 71 C 150.11 71 146 57.57 146 41 C 146 24.43 150.11 11 155.18 11 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
         <path d="M 236.82 11 C 231.74 11 227.63 24.43 227.63 41 C 227.63 57.57 231.74 71 236.82 71" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 41px; margin-left: 147px;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 85px; height: 1px; padding-top: 41px; margin-left: 147px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                 Batch File
@@ -32,7 +37,7 @@
                         </div>
                     </div>
                 </foreignObject>
-                <text x="196" y="45" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                <text x="190" y="45" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     Batch File
                 </text>
             </switch>
@@ -44,17 +49,16 @@
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 41px; margin-left: 292px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                Power Shell Script
+                                PowerShell Script
                             </div>
                         </div>
                     </div>
                 </foreignObject>
                 <text x="331" y="45" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    Power Shell S...
+                    PowerShell Sc...
                 </text>
             </switch>
         </g>
-        <path d="M 246 41 L 291 41" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
     </g>
     <switch>
         <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
