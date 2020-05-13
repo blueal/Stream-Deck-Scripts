@@ -6,11 +6,11 @@ Compaitability is only certain at the time of publishing. As programs are update
 ## Setup
 Setup is very simple. FORK this repository and download programs as they become neccesary into there corresponding folders
 
-1. [Nircmd](.\Monitor-Scripts\Nircmd\README.md)
+1. [Nircmd](Monitor-Scripts\Nircmd\README.md)
     * `Monitor-Scripts\Nircmd`
-2. [MultiMonitorTool](.\Monitor-Scripts\Multi-Monitor-Tool\README.md)
+2. [MultiMonitorTool](Monitor-Scripts\Multi-Monitor-Tool\README.md)
     * `Monitor-Scripts\Multi-Monitor-Tool`
-3. [HarmonyHubCli.js & Node.js modules](.\Smart-Home-Commands\HarmonyHubCli\README.md)
+3. [HarmonyHubCli.js & Node.js modules](Smart-Home-Commands\HarmonyHubCli\README.md)
     * `Smart-Home-Commands\HarmonyHubCli`
     * Install NPM Modules
 
