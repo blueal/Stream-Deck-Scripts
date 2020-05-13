@@ -6,9 +6,13 @@ Compaitability is only certain at the time of publishing. As programs are update
 ## Setup
 Setup is very simple. FORK this repository and download programs as they become neccesary into there corresponding folders
 
-1. Nircmd
-2. MultiMonitorTool
-3. HarmonyHubCli.js & Node.js modules
+1. [Nircmd](.\Monitor-Scripts\Nircmd\README.md)
+    * `Monitor-Scripts\Nircmd`
+2. [MultiMonitorTool](.\Monitor-Scripts\Multi-Monitor-Tool\README.md)
+    * `Monitor-Scripts\Multi-Monitor-Tool`
+3. [HarmonyHubCli.js & Node.js modules](.\Smart-Home-Commands\HarmonyHubCli\README.md)
+    * `Smart-Home-Commands\HarmonyHubCli`
+    * Install NPM Modules
 
 ## Usage
 Scripts are written in a modular fashion with relative paths. Most scripts require parameters passed into them. Read the script files for more information.
@@ -21,7 +25,7 @@ The only way to call a `.ps1` script silently without popups is through another 
 * Harmony Hub IP Address
 * Process names
 
-This information must either be stored in a file, or passed into the script at runtime.
+This information must either be stored in a file, or passed into the script at runtime. Depending on the script.
 
 Store your personal information and API Keys in the `Keys` folder for safe keeping
 
