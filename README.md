@@ -23,7 +23,7 @@ The only way to call a `.ps1` script silently without popups is through another 
 ### Some information is needed to be gathered by you, such as:
 * Zoom Meeting IDs
 * Harmony Hub IP Address
-* Process names
+* Window Title names
 
 This information must either be stored in a file, or passed into the script at runtime. Depending on the script.
 
