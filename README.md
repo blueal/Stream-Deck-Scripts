@@ -52,4 +52,5 @@ Store your personal information and API Keys in the `Keys` folder for safe keepi
 The `Example-Test-Scripts` folder contains many older scripts that I used to debug, and implement other features. I only keep them around in case I want to look at old code. They are in various states of functionality and are for reference ONLY.
 
 ## Known Issues
+* The MultiMonitor scripts are based on preset profiles of your monitor configuration. If restarting from a clean install these profiles may be incorrect and may need to be re-saved. No fix for this, it's just how it is.
 * [#1](https://github.com/blueal/Stream-Deck-Scripts/issues/1) Zoom came out with an update that changes the behavior of joining a personal meeting. The owner of the meeting will no longer get an Invite. Current lack of API integration for meeting invites means this is impossible to fix at this time.
