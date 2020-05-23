@@ -12,7 +12,7 @@ Setup is very simple. FORK this repository and download dependent programs as th
     * `Monitor-Scripts\Multi-Monitor-Tool`
 3. [HarmonyHubCli.js & Node.js modules](Smart-Home-Commands/HarmonyHubCli/README.md)
     * `Smart-Home-Commands\HarmonyHubCli`
-    * Install NPM Modules
+    * Install NPM Modules as described in Readme
 
 ### Assumptions
 Using these scripts assumes you already have a developer enviornment. This can include:
